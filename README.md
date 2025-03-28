@@ -1,3 +1,3 @@
-**Code for behavior-specific machine learning jaguar movement analysis using data the Jaguar Movement Database (Morato et al., 2018, https://doi.org/10.1002/ecy.2379)**
+**Code for behavior-specific machine learning jaguar movement analysis, published [here](https://doi.org/10.1016/j.biocon.2025.110978).** 
 
-First two scripts included; remaining code will be uploaded upon publication (manuscript in review).
+First two R scripts shared here; remaining code will be committed shortly.
