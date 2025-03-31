@@ -1,7 +1,7 @@
-basemap
-visualizations
-pyramid_example
-npp_import
-MODIS_nonTC_distance_layers
+basemap.js
+visualizations.js
+pyramid_example.js
+npp_import.js
+MODIS_nonTC_distance_layers.js
 03*
 04*
