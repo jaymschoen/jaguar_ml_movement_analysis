@@ -1,7 +1,9 @@
-**Code for behavior-specific machine learning jaguar movement analysis, published [here](https://doi.org/10.1016/j.biocon.2025.110978).**
+# Code for behavior-specific machine learning jaguar movement analysis, published [here](https://doi.org/10.1016/j.biocon.2025.110978).
 
-Note on order of operations:
-- R script 01 ingests and pepares movement data
+_Please be sure to cite the original data publication (Morato et al. 2018, https://doi.org/10.1002/ecy.2379) when using data in 'data' folder_
+
+**Note on scripts and order of operations:**
+- R script 01 ingests and pepares movement data from [Morato et al., 2018](https://doi.org/10.1002/ecy.2379)
 - R script 02 builds Hidden Markov Models
 - R script 03 prepares areas for background sampling
   - background areas used to generate covariate data in Google Earth Engine
