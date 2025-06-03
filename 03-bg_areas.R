@@ -5,10 +5,8 @@
 
 #### Setup ####
 
-# library(sp)
-# library(sf)
+library(sf)
 library(tidyverse)
-# library(raster)
 library(terra)
 library(moveHMM)
 

@@ -8,8 +8,6 @@
 library(terra)
 library(tidyverse)
 
-# load("~/Columbia E3B/PhD/Dissertation/Ch3-jaguar_movement/scripts/rf_analysis_ind_pt_6hr_buf_2hr_thin_mtry3_tr100_minn_400.RData")
-
 # Set to directory with cloned repo
 setwd("~/Columbia E3B/PhD/Dissertation/Ch3-jaguar_movement/scripts/git_push_R/")
 
